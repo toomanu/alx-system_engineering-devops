@@ -1,1 +1,1 @@
-# Display the contents list of your current directory
+# This scripts explain the basis of shell
