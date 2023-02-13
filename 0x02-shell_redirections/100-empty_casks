@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -empty -o -type f -empty | xargs -n 1 basename
+find . -empty | xargs -n 1 basename
